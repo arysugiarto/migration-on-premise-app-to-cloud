@@ -16,12 +16,17 @@ Layanan yang di gunakan
  
  <br><br>
 <p><b>Rancangan Arsitektur Cloud</b></p><br>
+<p><b>Tampilan aplikasi</b></p><br>
+<p><b>Calculate biaya/ pricing</b></p><br>
+
+<h3>Pada Screenshoot dibawah ini</h3><br>
+
 <img align="left" src="Screenshoot/arsitektur.png" width="500" height="350">
 <br>
-# Calculate biaya/ pricing
+
 <img align="left" src="Screenshoot/ppricing.png" width="500" height="550">
 <br>
-# Tampilan aplikasi
+
 <br>
 <br>
 <img align="left" src="Screenshoot/web.png" width="800" height="550"><br>
