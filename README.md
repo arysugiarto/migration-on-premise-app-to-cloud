@@ -23,9 +23,9 @@ Layanan yang di gunakan
 <br>
 <br>
 <p><b>Tampilan aplikasi</b></p>
-<img align="left" src="Screenshoot/web.png" width="700" height="550">
-<img align="left" src="Screenshoot/web2.png" width="700" height="550">
-<img align="left" src="Screenshoot/web3.png" width="700" height="550">
+<img align="left" src="Screenshoot/web.png" width="800" height="550"><br>
+<img align="left" src="Screenshoot/web2.png" width="800" height="550"><br>
+<img align="left" src="Screenshoot/web3.png" width="800" height="550"><br>
 
 Link applikasi : http://webapp1.turnkey-slice-229615.et.r.appspot.com/index.php/records
 
