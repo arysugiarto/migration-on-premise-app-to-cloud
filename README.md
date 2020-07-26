@@ -22,7 +22,20 @@ Layanan yang di gunakan
 <img align="left" src="Screenshoot/ppricing.png" width="500" height="550">
 <br>
 <br>
-<p><b>Tampilan aplikasi</b></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><b>Tampilan aplikasi</b></p><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <img align="left" src="Screenshoot/web.png" width="800" height="550"><br>
 <img align="left" src="Screenshoot/web2.png" width="800" height="550"><br>
 <img align="left" src="Screenshoot/web3.png" width="800" height="550"><br>
